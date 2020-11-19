@@ -1,11 +1,11 @@
 <code>
-  <h1 align="center">Template</h1>
+  <h1 align="center">VM Deployment</h1>
 </code>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Docker-Network?logo=github" hspace="5">
-  <img src="https://img.shields.io/github/license/IshaanOhri/Docker-Network" hspace="5">
-  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Docker-Network?logo=git">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/VM-Deployment?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/VM-Deployment" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/VM-Deployment?logo=git">
 </div>
 
 <br>
