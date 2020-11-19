@@ -1,5 +1,5 @@
 body{
-    background-color: deepskyblue;
+    background-color: rgb(116,157,105);
 }
 div{
     border-radius: 10px;
@@ -16,7 +16,7 @@ div{
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
-    color: deepskyblue;
+    color: rgb(116,157,105);
 }
 img{
     height: 250px;
